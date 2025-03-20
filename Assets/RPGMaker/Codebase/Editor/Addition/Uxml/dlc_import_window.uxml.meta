@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:project/rpgmaker/Assets/RPGMaker/Codebase/Editor/Addition/Uxml/dlc_import_window.uxml.meta
+guid: 509a1cc685dc5c040a3c07196b07e689
+========
+guid: 8c2284c084e05514e97497a396d7e180
+>>>>>>>> origin/develop/assetstore/v1.1.0:project/rpgmaker/Assets/RPGMaker/Codebase/Editor/DatabaseEditor/ModalWindow/Uxml/image_picker_item.uxml.meta
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}

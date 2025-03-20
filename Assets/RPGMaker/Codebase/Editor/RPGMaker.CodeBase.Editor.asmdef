@@ -1,0 +1,30 @@
+{
+    "name": "RPGMaker.CodeBase.Editor",
+    "rootNamespace": "",
+    "references": [
+        "RPGMaker.CodeBase.CoreSystem",
+        "Unity.Addressables",
+        "Unity.Addressables.Editor",
+        "Unity.TextMeshPro",
+        "Effekseer",
+        "EffekseerEditor",
+        "Unity.2D.Tilemap.Extras",
+        "Unity.EditorCoroutines.Editor",
+        "Unity.InputSystem",
+        "Unity.GraphTools.Foundation.Overdrive.Model",
+        "Unity.GraphTools.Foundation.Overdrive.Editor",
+        "Unity.GraphTools.Foundation.Overdrive.CommandStateObserver",
+        "Unity.GraphTools.Foundation.Overdrive"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
